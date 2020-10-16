@@ -15,11 +15,11 @@
 </pre>
 
 
-1. About TCS NQT and Syllabus
+## About TCS NQT and Syllabus
    ![TCS](/Picture1.png)
 
 
-2. Python 2.7 vs Python 3.x
+## Python 2.7 vs Python 3.x
 <pre>
 1. input() and raw_input()
    *python 2.7: raw_input()- to get input in string format
@@ -36,7 +36,7 @@
     
 </pre>
    
-3. Important Concepts
+## Important Concepts
 <pre>
   1. Loops
   2. Array/List
@@ -45,7 +45,7 @@
   5. General Questions
 </pre>
 
-4. Hands On
+## Hands On
 <pre>
 Write a program to
   1. string reversal
@@ -55,7 +55,7 @@ Write a program to
   5. find nth prime
 </pre>
 
-5. Tips & Tricks
+## Tips & Tricks
 <pre>
   1. Algorithm Formulation
   2. Corner Test Cases
@@ -63,7 +63,7 @@ Write a program to
   4. Membership Function in Python
 </pre>
 
-6. Learning & Practice Sources
+## Learning & Practice Sources
 <pre>
   1. https://github.com/shubham9g17/Interview-Preparation
   2. www.geeksforgeeks.com
@@ -73,16 +73,13 @@ Write a program to
   6. https://prepinsta.com/tcs-coding-questions
 </pre>
 
-7. Contact Details
+## Contact Details
 <pre>
   Connect with me on
   Gmail: samraazeem545@gmail.com
   LinkedIn: https://www.linkedin.com/in/samra-azeem-747b5415av
 </pre>
 
-
-# Winners never quit, quitters never win
-
-8. Questions, If Any
+## Questions, If Any
    
    
